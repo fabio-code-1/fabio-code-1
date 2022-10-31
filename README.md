@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center"> Olá! Eu sou Fabio ( Desenvolvedor Full-Stack )</h1>
 
 <ul>
@@ -43,4 +42,4 @@
 </div>
 
   
-
+![snake gif](https://github.com/fabio-code-1/fabio-code-1/blob/output/github-contribution-grid-snake.svg)
