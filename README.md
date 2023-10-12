@@ -2,8 +2,8 @@
 
 <ul>
   <li> 🔭 Apaixonado por tecnologia</li>
-  <li>🌱  Estudante Analise e desenvolvimento de sistemas 2/4</li>
-  <li>🌱  Estudante Tecnologia em sistemas para internet 4/5</li>
+  <li>🌱  Estudante Analise e desenvolvimento de sistemas 4/4</li>
+  <li>🎓 Formado em Tecnologia em Sistemas para Internet</li>
 </ul>
 
 
