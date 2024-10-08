@@ -6,7 +6,7 @@
   <li>🎓 Formado em Tecnologia em Sistemas para Internet</li>
 </ul>
 
-<p>Desenvolvedor com 4 anos de experiência em C# e .NET Core, com forte atuação em JavaScript, React e Node.js. Tenho conhecimento em bancos de dados SQL Server e MongoDB, além de práticas de DevOps e CI/CD. Sou apaixonado por automação e por criar soluções escaláveis que agreguem valor aos projetos. Estou sempre em busca de novos aprendizados e oportunidades de colaboração em projetos inovadores. Vamos conectar!</p>
+<p>Desenvolvedor com 4 anos de experiência em C# e .NET Core, com forte atuação em JavaScript, React e Node.js. Tenho conhecimento em bancos de dados SQL Server e MongoDB, além de práticas de DevOps. Sou apaixonado por automação e por criar soluções escaláveis que agreguem valor aos projetos. Estou sempre em busca de novos aprendizados e oportunidades de colaboração em projetos inovadores. Vamos conectar!</p>
 
 
   
@@ -27,6 +27,18 @@
  <img align="center" alt="Fabio-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  <img align="center" alt="Fabio-vsstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
  <img align="center" alt="Fabio-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+ <img align="center" alt="Fabio-laravel" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+ <img align="center" alt="Fabio-tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+ <img align="center" alt="Fabio-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+ <img align="center" alt="Fabio-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+ <img align="center" alt="Fabio-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+          
+          
+          
+          
+          
+          
+ 
 
                           
  </div>
