@@ -6,6 +6,8 @@
   <li>🎓 Formado em Tecnologia em Sistemas para Internet</li>
 </ul>
 
+<p>Desenvolvedor com 4 anos de experiência em C# e .NET Core, com forte atuação em JavaScript, React e Node.js. Tenho conhecimento em bancos de dados SQL Server e MongoDB, além de práticas de DevOps e CI/CD. Sou apaixonado por automação e por criar soluções escaláveis que agreguem valor aos projetos. Estou sempre em busca de novos aprendizados e oportunidades de colaboração em projetos inovadores. Vamos conectar!</p>
+
 
   
   
@@ -32,10 +34,10 @@
  ## 
   
 <div align="center">
-   <a href="https://www.instagram.com/m.s.j_desenvolvedor/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.instagram.com/mastter_codes?igsh=YnZ2dHFwNHpkb3do" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/fabio-machado-setubal-junior-b8a808330" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href = "https://github.com/fabio-code-1/fabio-code-1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
 
   
